@@ -1,80 +1,87 @@
-# 👋 Hi, I’m Devam Parekh
 
-🎓 Student | 📊 Data Science & Analytics
-🔍 Interested in data-driven decision-making, ethical AI, and real-world impact
+# Hey, I'm Devam 👋
 
----
+**AI Engineering | Data Engineering | ML Systems**
 
-## 🚀 About Me
+I'm a student passionate about building reliable, scalable systems at the intersection of **artificial intelligence, data infrastructure, and software engineering**.
 
-I’m a student passionate about using **data, statistics, and computation** to understand real-world systems — from **sports** to **business analytics**.
-
-I enjoy working at the intersection of:
-- **Data Analysis**
-- **Computer Vision**
-- **Machine Learning**
-
-I’m especially interested in projects that combine **rigorous quantitative analysis** with **clear storytelling and societal impact**.
+My interests go beyond developing machine learning models — I'm especially interested in the engineering challenges behind making AI systems work in practice, from **inference architecture and backend infrastructure** to **data pipelines and LLM applications**.
 
 ---
 
-## 🧠 Technical Skills
+## ⚡ What I'm Focused On
 
-**Languages**
-- Python  
-- SQL
-- Java 
-
-**Data Science & ML**
-- Pandas, NumPy, scikit-learn  
-- Data cleaning, feature engineering, model evaluation  
-- Regression, classification, clustering  
-- Time series (introductory)
-
-**Data & Tools**
-- Jupyter Notebooks  
-- Kaggle  
-- Git & GitHub  
-- ChromaDB, FastAPI (RAG applications)
-
-**Interests & Domains**
-- Sports analytics (NBA-focused)   
-- Statistical modeling & inference  
-- Data storytelling & visualization
+- **AI Engineering & Inference:** Model-serving architectures, inference workflows, and building efficient AI systems.
+- **Data Engineering:** Designing reliable data pipelines, managing data infrastructure, and enabling scalable data processing.
+- **Backend Engineering:** Building APIs and integrating databases, models, and application services.
+- **LLM Applications:** Developing retrieval-augmented generation (RAG) systems, working with vector databases, and evaluating AI applications.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Technical Skills
 
-### 🏀 Sports Analytics
-- **NBA Hustle & Impact Analysis**  
-  Statistical analysis exploring how hustle metrics influence game outcomes.
-- **NBA Combine & Player Projection**  
-  Investigating whether athletic testing predicts long-term NBA success.
-- **2025 NBA Championship Predictor**
-  Predicting the 2025 NBA championship team.
+**Languages:** Python, SQL, Java
 
-### 📊 Data Science Applications
-- **RAG Chatbot**  
-  Full-stack Retrieval-Augmented Generation system using FastAPI, embeddings, and vector databases.
+**AI & ML Engineering:** PyTorch, Hugging Face, YOLO11, Computer Vision, Pose Estimation, Multi-Object Tracking, RAG, LLM Evaluation
+
+**Backend & Data:** FastAPI, REST APIs, Pinecone, ChromaDB, Pandas, NumPy, Parquet
+
+**Tools & Development:** Git, GitHub, Docker, Pytest, Ruff, uv
 
 ---
 
-## 📈 What I’m Working On Now
+## 🚀 Featured Projects
 
-- Expanding my sports analytics models    
-- Strengthening foundations in statistics and optimization
-- Applying Data Science to various domains
+### 🎥 [FormSync — AI-Powered Dance Analysis](https://github.com/Devam-07/Multi-Agent_Visual_Pipeline)
+**Computer Vision | AI Engineering | Multi-Object Tracking | ML Pipelines**
+
+Developing an AI-powered system that analyzes group dance performances using computer vision and motion analysis, with the goal of generating actionable feedback on synchronization and formations.
+
+- Built a modular video-processing pipeline integrating **YOLO11 pose estimation** and **ByteTrack** for multi-person detection and tracking.
+- Implemented trajectory preprocessing, including confidence filtering, interpolation, smoothing, and identity reconciliation.
+- Developed synthetic pose datasets and evaluation workflows to test tracking accuracy and identity consistency.
+- Designed the architecture for audio-based beat alignment, synchronization scoring, formation analysis, and **LLM-powered rehearsal feedback**.
+
+**Tech:** Python, YOLO11, ByteTrack, OpenCV, Pydantic, Parquet
+
+### 🧠 [Jain RAG Chatbot](https://github.com/Devam-07/Jain_RAG_Chatbot)
+**LLM Applications | Retrieval-Augmented Generation | Backend Engineering**
+
+Built a retrieval-augmented generation application that connects large language models with a domain-specific knowledge base.
+
+- Developed a **FastAPI backend** integrating vector retrieval and LLM inference.
+- Integrated **Pinecone and ChromaDB** for semantic search and document retrieval.
+- Implemented evaluation using **Precision@K, Recall@K, MRR, semantic similarity, and LLM-as-judge**.
+- Built a modular architecture connecting document retrieval, model inference, and a web interface.
+
+**Tech:** Python, FastAPI, Hugging Face, Pinecone, ChromaDB, RAG
+
+### 🏀 [NBA Hustle & Impact Analysis](https://github.com/Devam-07/Does-Hustle-Matter-in-the-NBA)
+**Statistical Modeling | Data Analysis**
+
+Investigated the relationship between NBA hustle metrics and game outcomes through statistical analysis and data-driven storytelling.
+
+**Tech:** Python, Pandas, Statistical Analysis
+
+
+## 🔬 What I'm Working On
+
+Alongside my public projects, I've been gaining hands-on experience with **AI inference architecture and engineering challenges through internship work**.
+
+I'm currently exploring:
+
+- **Inference Infrastructure:** Understanding and improving the architecture behind model inference.
+- **AI Systems Engineering:** Building reliable and efficient AI-powered applications.
+- **Data Engineering:** Developing scalable approaches to data processing and management.
+- **LLM Evaluation:** Measuring and improving the performance of retrieval and inference systems.
+
+I'm particularly interested in bridging the gap between **AI experimentation and production-ready engineering**.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/devam-parekh-02a31b284/*  
-- 📫 Email: *devamparekh07@gmail.com*  
+- 💼 **LinkedIn:** [devam-parekh](https://www.linkedin.com/in/devam-parekh-02a31b284/)
+- 📫 **Email:** [devamparekh07@gmail.com](mailto:devamparekh07@gmail.com)
 
-I’m always open to collaboration on **data science projects, sports analytics, or ethical AI work**.
-
----
-
-⭐ If you find my projects interesting, feel free to star a repo or reach out!
+Always interested in connecting with people working on **AI infrastructure, data engineering, and applied machine learning**.
